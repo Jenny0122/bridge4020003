@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-codec-1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-compress-1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-lang3-3.3.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-net-1.4.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/DestinyStorage.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/gw-appr.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/hsfrmwk.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/httpcore-4.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jackson-annotations-2.11.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jackson-core-2.11.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jackson-databind-2.11.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jakarta-oro-2.0.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jaxp-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jdom.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/je.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/JimiProClasses.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/json-simple-1.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jxl.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/log4j-1.2.15.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/queryapi450.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/queryapi451.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/queryapi452.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/queryapi453.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/queryapi500.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/queryapi530.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/queryapi600.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/rms-stg-orign-1-1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/SCSL.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/wise.util.jvm15-1.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/xc3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/xerces.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/DestinyStorageClient.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
