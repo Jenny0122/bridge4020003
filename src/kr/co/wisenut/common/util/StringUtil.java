@@ -27,16 +27,16 @@ import cyberdigm.util.logging.Logger;
 import org.apache.commons.codec.binary.Base64;
 
 /**
- * 
+ *
  * StringUtil
- * 
+ *
  * Copyright 2001-2009 KoreaWISEnut, Inc. All Rights Reserved.
  * This software is the proprietary information of WISEnut, Inc.
  * Bridge Release 11 March 2009
- * 
+ *
  * @author WISEnut
  * @version 3.8,1. 2009/03/11 Bridge Release
- * 
+ *
  */
 public class StringUtil {
 	public final static String newLine = System.getProperty("line.separator");
@@ -93,7 +93,7 @@ public class StringUtil {
 	}
 
 	/**
-	 * 
+	 *
 	 * @param s
 	 * @param count
 	 * @return String
@@ -113,7 +113,7 @@ public class StringUtil {
 	}
 
 	/**
-	 * 
+	 *
 	 * @param c
 	 * @param count
 	 * @return String
@@ -133,7 +133,7 @@ public class StringUtil {
 	}
 
 	/**
-	 * 
+	 *
 	 * @param s
 	 * @param finalLength
 	 * @return String
@@ -143,7 +143,7 @@ public class StringUtil {
 	}
 
 	/**
-	 * 
+	 *
 	 * @param value
 	 * @param finalLength
 	 * @return String
@@ -153,7 +153,7 @@ public class StringUtil {
 	}
 
 	/**
-	 * 
+	 *
 	 * @param value
 	 * @param padChar
 	 * @param finalLength
@@ -164,7 +164,7 @@ public class StringUtil {
 	}
 
 	/**
-	 * 
+	 *
 	 * @param s
 	 * @param padChar
 	 * @param finalLength
@@ -180,7 +180,7 @@ public class StringUtil {
 	}
 
 	/**
-	 * 
+	 *
 	 * @param s
 	 * @param finalLength
 	 * @return String
@@ -190,7 +190,7 @@ public class StringUtil {
 	}
 
 	/**
-	 * 
+	 *
 	 * @param value
 	 * @param finalLength
 	 * @return String
@@ -200,7 +200,7 @@ public class StringUtil {
 	}
 
 	/**
-	 * 
+	 *
 	 * @param value
 	 * @param padChar
 	 * @param finalLength
@@ -211,7 +211,7 @@ public class StringUtil {
 	}
 
 	/**
-	 * 
+	 *
 	 * @param s
 	 * @param padChar
 	 * @param finalLength
@@ -227,7 +227,7 @@ public class StringUtil {
 	}
 
 	/**
-	 * 
+	 *
 	 * @param s
 	 * @param length
 	 * @return String
@@ -247,7 +247,7 @@ public class StringUtil {
 	}
 
 	/**
-	 * 
+	 *
 	 * @param s
 	 * @return String
 	 */
@@ -271,7 +271,7 @@ public class StringUtil {
 	}
 
 	/**
-	 * 
+	 *
 	 * @param base
 	 * @param newItem
 	 * @param delimiter
@@ -301,7 +301,7 @@ public class StringUtil {
 	}
 
 	/**
-	 * 
+	 *
 	 * @param s
 	 * @return String
 	 */
@@ -320,7 +320,7 @@ public class StringUtil {
 	}
 
 	/**
-	 * 
+	 *
 	 * @param strNum
 	 * @param def
 	 * @return int
@@ -394,7 +394,7 @@ public class StringUtil {
 	}
 
 	/**
-	 * 
+	 *
 	 * @param input
 	 * @param maxLen
 	 * @return String
@@ -413,7 +413,7 @@ public class StringUtil {
 	}
 
 	/**
-	 * 
+	 *
 	 * @param inputStr
 	 * @return String
 	 */
@@ -553,7 +553,7 @@ public class StringUtil {
 	}
 
 	/**
-	 * 
+	 *
 	 * @param str
 	 * @return String
 	 */
@@ -569,7 +569,7 @@ public class StringUtil {
 	}
 
 	/**
-	 * 
+	 *
 	 * @param str
 	 * @param prefix
 	 * @return boolean
@@ -590,7 +590,7 @@ public class StringUtil {
 	}
 
 	/**
-	 * 
+	 *
 	 * @param str
 	 * @param sub
 	 * @return int
@@ -608,7 +608,7 @@ public class StringUtil {
 	}
 
 	/**
-	 * 
+	 *
 	 * @param inString
 	 * @param oldPattern
 	 * @param newPattern
@@ -640,7 +640,7 @@ public class StringUtil {
 	}
 
 	/**
-	 * 
+	 *
 	 * @param inString
 	 * @param pattern
 	 * @return String
@@ -650,7 +650,7 @@ public class StringUtil {
 	}
 
 	/**
-	 * 
+	 *
 	 * @param inString
 	 * @param charsToDelete
 	 * @return String
@@ -670,7 +670,7 @@ public class StringUtil {
 	}
 
 	/**
-	 * 
+	 *
 	 * @param qualifiedName
 	 * @return String
 	 */
@@ -679,7 +679,7 @@ public class StringUtil {
 	}
 
 	/**
-	 * 
+	 *
 	 * @param qualifiedName
 	 * @param separator
 	 * @return String
@@ -689,7 +689,7 @@ public class StringUtil {
 	}
 
 	/**
-	 * 
+	 *
 	 * @param str
 	 * @return String
 	 */
@@ -698,7 +698,7 @@ public class StringUtil {
 	}
 
 	/**
-	 * 
+	 *
 	 * @param str
 	 * @return String
 	 */
@@ -707,7 +707,7 @@ public class StringUtil {
 	}
 
 	/**
-	 * 
+	 *
 	 * @param str
 	 * @param capitalize
 	 * @return String
@@ -727,7 +727,7 @@ public class StringUtil {
 	}
 
 	/**
-	 * 
+	 *
 	 * @param localeString
 	 * @return Locale
 	 */
@@ -740,7 +740,7 @@ public class StringUtil {
 	}
 
 	/**
-	 * 
+	 *
 	 * @param arr
 	 * @param str
 	 * @return String[]
@@ -753,7 +753,7 @@ public class StringUtil {
 	}
 
 	/**
-	 * 
+	 *
 	 * @param array
 	 * @param delimiter
 	 * @return Properties
@@ -763,7 +763,7 @@ public class StringUtil {
 	}
 
 	/**
-	 * 
+	 *
 	 * @param array
 	 * @param delimiter
 	 * @param charsToDelete
@@ -791,7 +791,7 @@ public class StringUtil {
 	}
 
 	/**
-	 * 
+	 *
 	 * @param str
 	 * @param delimiters
 	 * @return String[]
@@ -801,7 +801,7 @@ public class StringUtil {
 	}
 
 	/**
-	 * 
+	 *
 	 * @param str
 	 * @param delimiters
 	 * @param trimTokens
@@ -809,7 +809,7 @@ public class StringUtil {
 	 * @return String[]
 	 */
 	public static String[] tokenizeToStringArray(String str, String delimiters, boolean trimTokens,
-			boolean ignoreEmptyTokens) {
+												 boolean ignoreEmptyTokens) {
 
 		StringTokenizer st = new StringTokenizer(str, delimiters);
 		List tokens = new ArrayList();
@@ -826,7 +826,7 @@ public class StringUtil {
 	}
 
 	/**
-	 * 
+	 *
 	 * @param str
 	 * @param delimiter
 	 * @return String[]
@@ -854,7 +854,7 @@ public class StringUtil {
 	}
 
 	/**
-	 * 
+	 *
 	 * @param str
 	 * @return String[]
 	 */
@@ -863,7 +863,7 @@ public class StringUtil {
 	}
 
 	/**
-	 * 
+	 *
 	 * @param str
 	 * @return Set
 	 */
@@ -877,7 +877,7 @@ public class StringUtil {
 	}
 
 	/**
-	 * 
+	 *
 	 * @param arr
 	 * @param delim
 	 * @return String
@@ -898,7 +898,7 @@ public class StringUtil {
 	}
 
 	/**
-	 * 
+	 *
 	 * @param coll
 	 * @param delim
 	 * @param prefix
@@ -924,7 +924,7 @@ public class StringUtil {
 	}
 
 	/**
-	 * 
+	 *
 	 * @param coll
 	 * @param delim
 	 * @return String
@@ -934,7 +934,7 @@ public class StringUtil {
 	}
 
 	/**
-	 * 
+	 *
 	 * @param arr
 	 * @return String
 	 */
@@ -958,7 +958,7 @@ public class StringUtil {
 	}
 
 	/**
-	 * 
+	 *
 	 * @param input
 	 * @param srcEncode
 	 * @param targetEncode
@@ -1214,101 +1214,97 @@ public class StringUtil {
 	public static byte[] encodeBase64toByte(byte[] byteArr) {
 		return Base64.encodeBase64(byteArr);
 	}
-	
+
 	// chzin
 	public static String applySecurity(String str) {
-		
-		//str = str.replaceAll("(01[016789])[-~.[\\s]][0-9]{3,4}[-~.[\\s]][0-9]{4}", "$1-****-****");		// 전화번호
-		str = str.replaceAll("([01][0-9]{5})[,~-]+[1-4][0-9]{6}|([2-9][0-9]{5})[[\\s],~-]+[1-2][0-9]{6}","$1$2-*******");	// 주민번호
-		str = str.replaceAll("([0-9]{2})[-~.[\\s]][0-9]{6}[-~.[\\s]][0-9]{2}", "$1-******-**");		// 운전면허번호
-		str = str.replaceAll("[a-zA-Z]{2}[-~.[\\s]][0-9]{7}", "**-*******");		// 여권번호
-		str = str.replaceAll("([34569][0-9]{3})[-~.[\\s]]([0-9]{4})[-~.[\\s]]([0-9]{4})[-~.[\\s]]([0-9]{4})", "$1-****-****-****");		// 신용카드번호
-		str = str.replaceAll("([1257])[-~.[\\s]][0-9]{10}", "$1-**********");		// 건강보험번호
-		str = str.replaceAll("([0-9]{2}[-~.[\\s]][0-9]{2}[-~.[\\s]][0-9]{6}"
-				+ "|[0-9]{3}[-~.[\\s]]([0-9]{5,6}[-~.[\\s]][0-9]{3}"
-				+ "|[0-9]{6}[-~.[\\s]][0-9]{5}"
-				+ "|[0-9]{2,3}[-~.[\\s]][0-9]{6}"
-				+ "|[0-9]{2}[-~.[\\s]][0-9]{7}"
-				+ "|[0-9]{2}[-~.[\\s]][0-9]{4,6}[-~.[\\s]][0-9]"
-				+ "|[0-9]{5}[-~.[\\s]][0-9]{3}[-~.[\\s]][0-9]{2}"
-				+ "|[0-9]{2}[-~.[\\s]][0-9]{5}[-~.[\\s]][0-9]{3}"
-				+ "|[0-9]{4}[-~.[\\s]][0-9]{4}[-~.[\\s]][0-9]{3}"
-				+ "|[0-9]{6}[-~.[\\s]][0-9]{2}[-~.[\\s]][0-9]{3}"
-				+ "|[0-9]{2}[-~.[\\s]][0-9]{2}[-~.[\\s]][0-9]{7})"
-				+ "|[0-9]{4}[-~.[\\s]]([0-9]{3}[-~.[\\s]][0-9]{6}"
-				+ "|[0-9]{2}[-~.[\\s]][0-9]{6}[-~.[\\s]][0-9])"
-				+ "|[0-9]{5}[-~.[\\s]][0-9]{2}[-~.[\\s]][0-9]{6}"
-				+ "|[0-9]{6}[-~.[\\s]][0-9]{2}[-~.][0-9]{5,6})","**********");		// 계좌번호
+
+		str = str.replaceAll("([01][0-9]{5})[,~-]+[1-4][0-9]{6}|([2-9][0-9]{5})[[\\s],~-]+[1-2][0-9]{6}","$1$2-*******");   // 주민번호
+		str = str.replaceAll("([01][0-9]{5})[,~-]+[1-4][0-9]{6}|([2-9][0-9]{5})[[\\s],~-]+[1-2][0-9]{6}","$1$2-*******");   // 외국인등록번호
+		str = str.replaceAll("([0-9]{2})[-~.[\\s]][0-9]{6}[-~.[\\s]][0-9]{2}", "$1-******-**");      // 운전면허번호
+		str = str.replaceAll("[a-zA-Z]{2}[-~.[\\s]][0-9]{7}", "**-*******");      // 여권번호
+
 		return str;
 	}
-	
-	
-	private static final String FOREIGNER_REGEX = "(?<=[^0-9a-zA-Z])([0-9][0-9][01][0-9][0-3][0-9][\\s-:\\.]?)([1-4]\\d{6})(?=[^0-9a-zA-Z])"; 
-	
-	private static final String JUMIN_REGEX = "(?<=[^0-9a-zA-Z])([0-9][0-9][01][0-9][0-3][0-9][\\s-:\\.]?)([1-4]\\d{6})(?=[^0-9a-zA-Z])";
-	
-	private static final String DRIVE_REGEX = "(?<=[^0-9a-zA-Z])(([0-9]{2})[-][0-9]{6}[-][0-9]{2}"
-											+ "|([0-9]{2})[~][0-9]{6}[~][0-9]{2}"
-											+ "|([0-9]{2})[.][0-9]{6}[.][0-9]{2}"
-											+ "|([0-9]{2})[\\s][0-9]{6}[\\s][0-9]{2})(?=[^0-9a-zA-Z])";
-	
-	
-	private static final String PASS_PORT_REGEX = "(?<=[^0-9a-zA-Z])([M|S|R|O|D|m|s|r|o|d][0-9]{8})(?=[^0-9a-zA-Z])";
 
-	
+
+   /*private static final String FOREIGNER_REGEX = "(?<=[^0-9a-zA-Z])([0-9][0-9][01][0-9][0-3][0-9][\\s-:\\.]?)([1-4]\\d{6})(?=[^0-9a-zA-Z])";
+
+   private static final String JUMIN_REGEX = "(?<=[^0-9a-zA-Z])([0-9][0-9][01][0-9][0-3][0-9][\\s-:\\.]?)([1-4]\\d{6})(?=[^0-9a-zA-Z])";
+
+   private static final String DRIVE_REGEX = "(?<=[^0-9a-zA-Z])(([0-9]{2})[-][0-9]{2}[-][0-9]{6}[-][0-9]{2}"
+                                 + "|([0-9]{2})[-][0-9]{2}[~][0-9]{6}[~][0-9]{2}"
+                                 + "|([0-9]{2})[-][0-9]{2}[.][0-9]{6}[.][0-9]{2}"
+                                 + "|([0-9]{2})[-][0-9]{2}[\\s][0-9]{6}[\\s][0-9]{2})(?=[^0-9a-zA-Z])";
+
+
+   private static final String PASS_PORT_REGEX = "(?<=[^0-9a-zA-Z])([M|S|R|O|D|m|s|r|o|d][0-9]{8})(?=[^0-9a-zA-Z])";*/
+
+	private static final String JUMIN_REGEX = "(?<=[^0-9a-zA-Z])([0-9]{2}[0-1][0-9][0-3][0-9][-|~|.|_|^|\\s][1-4]\\d{6}"
+			+ "|[0-9]\\s[0-9]\\s[0-1]\\s[0-9]\\s[0-3]\\s[0-9]\\s[-|~|.|_|^|\\s]\\s[1-4]\\s[0-9]\\s[0-9]\\s[0-9]\\s[0-9]\\s[0-9]\\s[0-9])(?=[^0-9a-zA-Z])";
+
+	private static final String FOREIGN_REGEX = "(?<=[^0-9a-zA-Z])([0-9]{2}[0-1][0-9][0-3][0-9][-|~|.|_|^|\\s][1-4]\\d{6}"
+			+ "|[0-9]\\s[0-9]\\s[0-1]\\s[0-9]\\s[0-3]\\s[0-9]\\s[-|~|.|_|^|\\s]\\s[1-4]\\s[0-9]\\s[0-9]\\s[0-9]\\s[0-9]\\s[0-9]\\s[0-9])(?=[^0-9a-zA-Z])";
+
+	private static final String DRIVE_REGEX = "(?<=[^0-9a-zA-Z])([0-9]{2}[-|~|.|_|^|\\s][0-9]{2}[-|~|.|_|^|\\s][0-9]{6}[-|~|.|_|^|\\s][0-9]{2}"
+			+ "|[0-9]\\s[0-9]\\s[-|~|.|_|^|\\s]\\s[0-9]\\s[0-9]\\s[-|~|.|_|^|\\s]\\s[0-9]\\s[0-9]\\s[0-9]\\s[0-9]\\s[0-9]\\s[0-9])(?=[^0-9a-zA-Z])";
+
+	private static final String PASS_PORT_REGEX = "(?<=[^0-9a-zA-Z])([M|S|R|O|D|m|s|r|o|d]\\d{3}[A-Za-z]\\d{4}"
+			+ "|[M|S|R|O|D|m|s|r|o|d]\\s[0-9]\\s[0-9]\\s]0-9]\\s[A-Za-z]\\s[0-9]\\s[0-9]\\s[0-9]\\s[0-9]"
+			+ "|[M|S|R|O|D|m|s|r|o|d]\\d{8}"
+			+ "|[M|S|R|O|D|m|s|r|o|d]\\s[0-9]\\s[0-9]\\s[0-9]\\s[0-9]\\s[0-9]\\s[0-9]\\s[0-9]\\s[0-9]\\s[0-9])(?=[^0-9a-zA-Z])";
+
 	/**
 	 * ex) 태그명/검출건수
 	 * @param str
 	 * @return
 	 */
 	public static String makeAliasTagWithCount(String str) {
-		
+
 		int count = 0;
 		StringJoiner sj = new StringJoiner("|");
-		
-		count = getMatchCount(str,FOREIGNER_REGEX); 
-		if(count > 0){	// 외국인등록번호 PHONE
-			sj.add("FOREIGNER/" + count);
-		}
-		
+
 		count = getMatchCount(str,JUMIN_REGEX);
-		if(count > 0) {	// 주민번호 JUMIN 
+		if(count > 0) {   // 주민번호 JUMIN
 			sj.add("JUMIN/" + count);
 		}
-		
+
+		count = getMatchCount(str,FOREIGN_REGEX);
+		if(count > 0){   // 외국인등록번호 FOREIGN
+			sj.add("FOREIGN/" + count);
+		}
+
 		count = getMatchCount(str,DRIVE_REGEX);
-		if(count > 0) {	// 운전면허번호 DRIVE
+		if(count > 0) {   // 운전면허번호 DRIVE
 			sj.add("DRIVE/" + count);
 		}
-		
+
 		count = getMatchCount(str,PASS_PORT_REGEX);
-		if(count > 0) {	// 여권번호 PASS_PORT
+		if(count > 0) {   // 여권번호 PASS_PORT
 			sj.add("PASS_PORT/" + count);
 		}
-		
-		
+
 		return sj.toString();
 	}
-	
+
 	/**
-	 * 정규식에 매칭되는 그룹의 건수를 반환한다. 
+	 * 정규식에 매칭되는 그룹의 건수를 반환한다.
 	 * @param strSource
 	 * @param strRegExPattern
 	 * @return
 	 */
 	private static int getMatchCount(String strSource, String strRegExPattern) {
-        
+
 		int count = 0;
-		
+
 		Matcher m =  Pattern.compile(strRegExPattern).matcher(strSource);
-        while(m.find()) {
-        	//System.out.println(m.group());
-        	count++;
-        }
-       
-        return count;
-    }
-	
+		while(m.find()) {
+			//System.out.println(m.group());
+			count++;
+		}
+
+		return count;
+	}
+
 	/**
 	 * 태그 정보를 카테고리 문자열로 변환한다.
 	 * @param str
@@ -1319,17 +1315,17 @@ public class StringUtil {
 		if("".equals(res) || null == res) {
 			return "";
 		}
-		
+
 		StringJoiner sj = new StringJoiner(",");
 		String [] strArr = str.split("\\|");
-		
+
 		for(String s : strArr) {
 			sj.add(s.substring(0, s.indexOf("/")));
 		}
-		
+
 		return sj.toString();
 	}
-	
+
 	public static void main(String[] args) {
 		String str = makeAliasTagWithCount("휴대폰 번호 010-1234-1234 주민등록번호 010201-3612153 계좌 번호 우리 1002-230-883002 신한 110-468-136801 ");
 		// System.out.println(makeAliasCategory(str));
